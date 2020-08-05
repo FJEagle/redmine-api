@@ -1,5 +1,5 @@
 {
-  "name": "@chymz/redmine-api",
+  "name": "redmine-apis",
   "version": "0.1.0",
   "description": "Redmine API library for Node and Browser",
   "main": "dist/redmine-api.min.js",
@@ -12,19 +12,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chymz/redmine-api.git"
+    "url": "git+https://github.com/FJEagle/redmine-api.git"
   },
   "bugs": {
-    "url": "https://github.com/chymz/redmine-api/issues"
+    "url": "https://github.com/FJEagle/redmine-api/issues"
   },
-  "homepage": "https://github.com/chymz/redmine-api#readme",
+  "homepage": "https://github.com/FJEagle/redmine-api#readme",
   "keywords": [
     "redmine",
     "api",
     "node",
     "browser"
   ],
-  "author": "Simon Babay",
+  "author": "FJEagle",
   "license": "MIT",
   "devDependencies": {
     "babel-plugin-external-helpers": "^6.18.0",

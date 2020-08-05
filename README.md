@@ -3,12 +3,12 @@ Use Redmine API in browsers and NodeJS
 
 ## Install
 ```sh
-npm install @chymz/redmine-api
+npm install redmine-apis
 ```
 
 ## Quick Sample
 ```js
-import { RedmineAPI } from '@chymz/redmine-api';
+import { RedmineAPI } from 'redmine-apis';
 
 const api = new RedmineAPI('https://domain.com', { login: 'user', password: 'pass' });
 // or
