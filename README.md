@@ -1,5 +1,6 @@
 # Redmine API
 Use Redmine API in browsers and NodeJS
+Fork from: https://github.com/chymz/redmine-api
 
 ## Install
 ```sh
